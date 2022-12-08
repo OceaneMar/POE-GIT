@@ -1,0 +1,1 @@
+<img src="../assets/img/hotdog.jpg" alt="Un beau hotdog"/>
