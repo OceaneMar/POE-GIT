@@ -2,5 +2,5 @@ Steak
 Salade
 Tomate
 Cornichon
-Fromage
-Bacon
+Ketchup
+Galette de pomme de terre
