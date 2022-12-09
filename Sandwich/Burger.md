@@ -4,5 +4,7 @@ Tomate
 Ketchup
 Galette de pomme de terre
 Fromage
+Bacon
+oignon
 
 
